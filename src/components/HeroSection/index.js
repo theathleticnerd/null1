@@ -23,9 +23,9 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>WebHunt 2.0</HeroH1>
+        <HeroH1>WebHunt 3.0</HeroH1>
         <HeroP>
-          Welcome to the Annnual Web Challenge hosted by null (Infosec) Chapter
+          Welcome to the Annual Web Challenge hosted by null (Infosec) Chapter
           and Open Source Club
         </HeroP>
         <HeroBtnWrapper>
